@@ -65,7 +65,7 @@ npm run lint      # lint the codebase
 
 ## Notes
 
-- The site uses GSAP's **trial** plugins (`gsap-trial`: ScrollSmoother, SplitText). These are not licensed for production hosting. To deploy publicly, switch to the official GSAP Club plugins: https://gsap.com/docs/v3/Installation/
+- Animations use [GSAP](https://gsap.com) (including ScrollSmoother and SplitText), which is free for all use since GSAP 3.13.
 - Built from the open-source portfolio template by **Moncy Yohannan** ([MoncyDev/Portfolio-Website](https://github.com/MoncyDev/Portfolio-Website)). Content, project covers, and customizations are my own. The original template's license terms and the restrictions on its 3D avatar still apply; see [LICENSE](LICENSE).
 
 ---
